@@ -1,5 +1,6 @@
 ### Hello there! 👋
 
+I'm Priya from Mauritius and I do different stuffs related to Tech!
 
 - 🔭 I’m currently working on Augmented Reality Campus Tour
 - 🌱 I’m currently learning C#
