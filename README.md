@@ -7,6 +7,8 @@
 
 - 😄 Pronouns: **She/Her**
 
+- ❤️ Best projects I worked on are **Game Design and Development**
+
 - 💬 Ask me about **NFTs and Crypto**
 
 - 📫 How to reach me **priyajhugroo@gmail.com**
