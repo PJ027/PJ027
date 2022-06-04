@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **priyajhugroo@gmail.com**
 
-- ⚡ Fun fact **I help people create cool tiktok videos (Tiktok Expert haha!)**
+- ⚡ Fun fact **I love bodybuilding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
