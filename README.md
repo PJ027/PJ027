@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Priya!</h1>
 <h3 align="center">A passionate developer from Mauritius</h3>
 
-- 🔭 I’m currently working on **Augmented Reality Campus Tour**
+- 🔭 I’m currently **Open to work**
 
 - 🌱 I’m currently learning **Python**
 
