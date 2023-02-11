@@ -1,19 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Priya!</h1>
 <h3 align="center">A passionate developer from Mauritius</h3>
 
-- 🔭 I’m currently **Open to work**
 
-- 🌱 I’m currently learning **Python**
-
-- 😄 Best Skills: **Project Management, Communication, Team Player, Leadership, Creativity**
-
-- ❤️ Best projects I worked on are **Game Design and Development**
-
-- 💬 Ask me about **NFTs and Crypto**
-
-- 📫 How to reach me **priyajhugroo@gmail.com**
-
-- ⚡ Fun fact **I love bodybuilding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
