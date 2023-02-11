@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Priya!</h1>
-<h3 align="center">A passionate developer from Mauritius</h3>
+<h3 align="center">Someone from Mauritius</h3>
 
 
 
